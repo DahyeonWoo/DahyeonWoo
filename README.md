@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on web<br>
 🌱 I’m currently learning Artificial Intelligence<br>
-👯 I’m looking to collaborate coding test<br>
 🤔 I’m looking for help with ReactNativeCLI<br>
 ⚡ Fun fact: My profile picture is my cute cat.<br>
 
