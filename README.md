@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on web
-🌱 I’m currently learning Artificial Intelligence
-👯 I’m looking to collaborate coding test
-🤔 I’m looking for help with ReactNativeCLI
-💬 Ask me about cat
-📫 How to reach me:   <a href="https://www.tistory.com/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nali.tistory.com/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wdh112139@gmail.com"/></a>
-😄 Pronouns: 🐈
-⚡ Fun fact: My profile picture is my cute cat.
+🔭 I’m currently working on web<br>
+🌱 I’m currently learning Artificial Intelligence<br>
+👯 I’m looking to collaborate coding test<br>
+🤔 I’m looking for help with ReactNativeCLI<br>
+⚡ Fun fact: My profile picture is my cute cat.<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
