@@ -9,7 +9,8 @@
 
 <h3 align="center">🍒 Me 🍒 </h3>
 <p align="center">
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wdh112139@gmail.com)](mailto:wdh112139@gmail.com)[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nali.tistory.com/)](https://nali.tistory.com/)
+  <a href="mailto:wdh112139@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wdh112139@gmail.com"/></a>
+  <a href="https://nali.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nali.tistory.com/"/></a>&nbsp
 </p>
 
 
