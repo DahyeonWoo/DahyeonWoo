@@ -14,3 +14,6 @@
   <a href="https://defwdahyun0.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://defwdahyun0.github.io/"/>
 </a>&nbsp
 </p>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=defwdahyun0&show_icons=true&hide_border=true)](https://github.com/defwdahyun0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defwdahyun0&layout=compact)](https://github.com/defwdahyun0)
