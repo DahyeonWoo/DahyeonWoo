@@ -14,5 +14,4 @@
   <a href="https://nali.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=github&link=https://nali.tistory.com/"/></a>&nbsp
 </p>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=defwdahyun0&show_icons=true&hide_border=true)](https://github.com/defwdahyun0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defwdahyun0&layout=compact)](https://github.com/defwdahyun0)
+[![github stats](https://github-readme-stats.vercel.app/api?username=defwdahyun0&show_icons=true&hide_border=true)](https://github.com/defwdahyun0)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defwdahyun0&layout=compact)](https://github.com/defwdahyun0)
