@@ -10,7 +10,7 @@
 🌱 서버(Node.js,SpringBoot,Flask), 리눅스/임베디드, 앱·웹(React), 인공지능에 관심이 있습니다. <br>
 ⚡ 프로필 사진은 저의 반려 고양이랍니다🐈  <br>
 
-🤔 [Read more about Dahyun Woo(Notion)](https://www.notion.so/Resume-07a1f07286594a7bbeb296d2678e5f92)
+🤔 [Read more about Dahyun Woo(Notion)](https://www.notion.so/Resume-07a1f07286594a7bbeb296d2678e5f92) <br>
 👨‍💻 깃허브 [https://github.com/defwdahyun0](https://github.com/defwdahyun0) <br>
 👨‍💻 개발 블로그 [https://nali.tistory.com/](https://nali.tistory.com/) <br>
 🙃 TIL 블로그 [https://defwdahyun0.github.io/](https://defwdahyun0.github.io/) <br>
