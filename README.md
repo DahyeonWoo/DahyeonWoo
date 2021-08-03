@@ -14,14 +14,14 @@
   <a href="https://nali.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=github&link=https://nali.tistory.com/"/></a>&nbsp
 </p>
 
-🐱 우다현
-🎂 2000.11.21
-✉️  wdh112139@gmail.com
+🐱 우다현 <br>
+🎂 2000.11.21 <br>
+✉️  wdh112139@gmail.com <br>
 
-👨‍💻 깃허브 [https://github.com/defwdahyun0](https://github.com/defwdahyun0)
-👨‍💻 개발 블로그 [https://nali.tistory.com/](https://nali.tistory.com/)
-🙃 TIL 블로그 [https://defwdahyun0.github.io/](https://defwdahyun0.github.io/)
-💁 더 많은 프로젝트/공부 내역을 보고 싶다면 [https://github.com/defwdahyun0/WIL](https://github.com/defwdahyun0/WIL)
+👨‍💻 깃허브 [https://github.com/defwdahyun0](https://github.com/defwdahyun0) <br>
+👨‍💻 개발 블로그 [https://nali.tistory.com/](https://nali.tistory.com/) <br>
+🙃 TIL 블로그 [https://defwdahyun0.github.io/](https://defwdahyun0.github.io/) <br>
+💁 더 많은 프로젝트/공부 내역을 보고 싶다면 [https://github.com/defwdahyun0/WIL](https://github.com/defwdahyun0/WIL) <br>
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=defwdahyun0&show_icons=true&hide_border=true)](https://github.com/defwdahyun0)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defwdahyun0&layout=compact)](https://github.com/defwdahyun0)
