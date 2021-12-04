@@ -6,7 +6,7 @@
 🌱 서버(Node.js,SpringBoot,Flask), 앱·웹(React), 임베디드, 인공지능에 관심이 있습니다. <br>
 ⚡ 프로필 사진은 저의 반려 고양이랍니다🐈  <br>
 🤔 [프로젝트/공부 내역을 보고 싶다면(WIL)](https://github.com/defwdahyun0/WIL) <br>
-💁 [간단한 이력서(Notion)](https://www.notion.so/Resume-07a1f07286594a7bbeb296d2678e5f92) <br>
+💁 [이력서(Notion)](https://www.notion.so/Resume-07a1f07286594a7bbeb296d2678e5f92) <br>
 
 
 <h3 align="center">🍒 Me 🍒 </h3>
