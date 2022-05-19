@@ -4,8 +4,8 @@
 
 🔭 학구열이 있어 여러 분야에 관심이 많습니다. 아직은 학생 신분이므로, 졸업 전까지 여러 분야의 개발을 경험해볼 생각입니다. <br>
 🌱 통신 및 네트워크, 서버(Spring,Node.js,Flask), 웹(React), 앱(ReactNative), 임베디드에 관심이 있습니다. <br>
-⚡ 프로필 사진은 저의 반려 고양이랍니다🐈  <br>
 🎹 음악 감상과 피아노 연주를 좋아합니다. <br>
+🐈 프로필 사진은 저의 반려 고양이랍니다❤️  <br>
 🤔 [프로젝트/공부 내역을 보고 싶다면(WIL)](https://github.com/defwdahyun0/WIL) <br>
 💁 [이력서(Notion)](https://flowery-slipper-d90.notion.site/Resume-07a1f07286594a7bbeb296d2678e5f92) <br>
 
