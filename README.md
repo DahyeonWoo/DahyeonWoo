@@ -6,7 +6,6 @@
 🌱 통신 및 네트워크, 서버(Spring,Node.js), 임베디드, 인공지능에 관심이 있습니다. <br>
 🎹 음악 감상과 피아노 연주를 좋아합니다. <br>
 🐈 프로필 사진은 저의 반려 고양이랍니다 💕 <br>
-🤔 [프로젝트/공부 내역을 보고 싶다면(WIL)](https://github.com/defwdahyun0/WIL) <br>
 💁 [이력서(Notion)](https://flowery-slipper-d90.notion.site/Resume-07a1f07286594a7bbeb296d2678e5f92) <br>
 
 
