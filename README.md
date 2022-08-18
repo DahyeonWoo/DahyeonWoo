@@ -12,6 +12,6 @@
 <h3 align="center">🍒 Me 🍒 </h3>
 <p align="center">
   <a href="mailto:wdh112139@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wdh112139@gmail.com"/></a>
-  <a href="https://nali.tistory.com/"><img src="http://img.shields.io/badge/-Review%20Blog-yellow?style=flat-square&logo=github&link=https://nali.tistory.com/"/></a>
-  <a href="https://velog.io/@dahyeon/"><img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat-square&logo=github&link=https://velog.io/@dahyeon/"/></a>
+  <a href="https://nali.tistory.com"><img src="http://img.shields.io/badge/-Review%20Blog-yellow?style=flat-square&logo=github&link=https://nali.tistory.com"/></a>
+  <a href="https://velog.io/@dahyeon"><img src="http://img.shields.io/badge/-Tech%20Blog-green?style=flat-square&logo=github&link=https://velog.io/@dahyeon"/></a>
 </p>
