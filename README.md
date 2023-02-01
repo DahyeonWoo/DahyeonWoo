@@ -26,7 +26,7 @@ __Check out my GitHub repository:__
 
 - DSP Embedded Programming : Intern
 - Communication Signal System : **[신호 시스템](https://github.com/DahyeonWoo/SignalSystem)** - MATLAB 실습
-- Logical Circuit Experiment : **FPGA 6비트 사칙 연산 계산기 설계** - FPGA 보드 위 Verilog 언어를 이용한 4칙 연산 계산기 설계 
+- Logical Circuit Experiment : **FPGA 6비트 사칙 연산 계산기 설계** - FPGA 보드 위 Verilog 언어를 이용한 사칙연산 계산기 설계 
 - System Programming : **독거노인 모니터링 시스템 설계** - 라즈베리 파이 4대와 8개의 센서 GPIO,PWM,I2C 통신을 이용한 시스템 설계
 - Embedded System : **[IoT 시스템 설계](https://github.com/DahyeonWoo/EmbeddedSystemExperiment)** - ESP32 아두이노 보드 프로그래밍, 스마트 강의실 프로젝트
 - Robot : **[경주용 인공지능 로봇 설계](https://github.com/DahyeonWoo/AdventureDesign)** - RobotC 언어를 이용한 라인트레이서 로봇, 장애물 회피 로봇 제작
