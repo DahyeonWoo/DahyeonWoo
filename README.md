@@ -38,12 +38,6 @@ __Check out my GitHub repository:__
 - Backend : **[ARTISTACK](https://github.com/umc-artistack/artistack-server)** - 다양한 뮤지션이 만나 새로운 음악을 만들어내는 숏폼 SNS
 - AI : **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회 은상](https://www.manuscriptlink.com/society/kips/conference/ack2021))**
 
-## ETC
-
-- KREAM 서비스 DB 설계
-- PositionalAudioTutorial - Three.js를 이용한 학습용 웹 콘텐츠 제작
-- AjouKeyword - ReactNative를 이용한 아주대학교 공지 알림 앱 개발
-
 ## Study
 
 - c-study
