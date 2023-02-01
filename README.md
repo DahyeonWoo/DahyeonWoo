@@ -17,7 +17,7 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-- **Ephony ([2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/c23e1001-daf8-46ad-97e6-71045ae4b6b9?page=1) 정보통신산업진흥원장상)** - 리드멘티
+- **Euphony ([2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/c23e1001-daf8-46ad-97e6-71045ae4b6b9?page=1) 정보통신산업진흥원장상)** - 리드멘티
 
 ## Linux Application Develop
 - Signal Processing Software (Qt Programming) : Intern
