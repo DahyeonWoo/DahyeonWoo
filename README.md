@@ -4,7 +4,7 @@
 
 <h2>💻 I'm Currently learning on</h2>
 
-- **Communication System Engineering**
+- **Communication(Network) System Engineering**
 
 __Check out my GitHub repository:__
 
