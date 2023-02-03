@@ -36,7 +36,7 @@ __Check out my GitHub repository:__
 - Backend & AI & Infra : **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 도서 추천 챗봇
 - Backend & Infra : **[Shorket](https://github.com/Wo-ogie/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
 - Backend : **[ARTISTACK](https://github.com/umc-artistack/artistack-server)** - 다양한 뮤지션이 만나 새로운 음악을 만들어내는 숏폼 SNS
-- AI : **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회 은상](https://www.manuscriptlink.com/society/kips/conference/ack2021))**
+- AI : **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) 은상)**
 
 ## Study
 
