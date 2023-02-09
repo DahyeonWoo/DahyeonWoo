@@ -69,7 +69,6 @@ __Check out my GitHub repository:__
 <h2>📫 About me:</h2>
 
 - Check out my Blog: **[https://huchuu.tistory.com](https://huchuu.tistory.com)**
-- Know more about me: **[About DahyeonWoo](https://flowery-slipper-d90.notion.site/Resume-07a1f07286594a7bbeb296d2678e5f92)**
 - Email : **[Gmail](wdh112139@gmail.com)**
 
 
