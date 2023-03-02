@@ -22,7 +22,7 @@ __Check out my GitHub repository:__
 ## Linux Application Develop
 - Signal Processing Software (Qt Programming) : Intern
 
-## Hardware(Communication)  System
+## Communication(Hardware) System
 
 - DSP Embedded Programming : Intern
 - Communication Signal System : **[신호 시스템](https://github.com/DahyeonWoo/SignalSystem)** - MATLAB 실습
