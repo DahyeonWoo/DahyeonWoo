@@ -60,8 +60,8 @@
 
 <h2>👬Activities</h2>
 
-- **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ 2023.06)*
-- **[University MakeUs Challenge](https://www.makeus.in/umc)** - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ 2022.12)*
+- **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** (Core Member) - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ 2023.06)*
+- **[University MakeUs Challenge](https://www.makeus.in/umc)** (Lead) - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ 2022.06)*
 
 
 <h2>📫 About me:</h2>
