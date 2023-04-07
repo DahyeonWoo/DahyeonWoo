@@ -17,32 +17,27 @@
 
 - **Euphony ([2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/c23e1001-daf8-46ad-97e6-71045ae4b6b9?page=1) 정보통신산업진흥원장상)** 리드멘티
 
-## Linux Application Develop
+## Communication System - Embedded, Hardware
 - Signal Processing Software (Qt Programming) : Intern
-
-## Communication(Hardware) System
-
 - DSP Embedded Programming : Intern
-- Communication Signal System : **[신호 시스템](https://github.com/DahyeonWoo/SignalSystem)** - MATLAB 실습
 - System Programming : **독거노인 모니터링 시스템 설계** - 라즈베리 파이 4대와 8개의 센서의 GPIO,PWM,I2C 통신을 이용한 시스템 설계
 - Embedded System : **[IoT 시스템 설계](https://github.com/DahyeonWoo/EmbeddedSystemExperiment)** - ESP32 아두이노 보드 프로그래밍, 스마트 강의실 프로젝트
+- Communication Signal System : **[신호 시스템](https://github.com/DahyeonWoo/SignalSystem)** - MATLAB 실습
 - Logical Circuit Experiment : **FPGA 6비트 사칙 연산 계산기 설계** - Verilog를 이용한 FPGA 보드 사칙연산 계산기 설계 
 - Robot : **[경주용 인공지능 로봇 설계](https://github.com/DahyeonWoo/AdventureDesign)** - RobotC 언어를 이용한 라인트레이서 로봇, 장애물 회피 로봇 제작
 
-## Infra System
-- Backend & Infra : **[Shorket](https://github.com/Wo-ogie/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
-- Backend : **[ARTISTACK](https://github.com/umc-artistack/artistack-server)** - 다양한 뮤지션이 만나 새로운 음악을 만들어내는 숏폼 SNS
-- Backend & Infra & AI : **[FindMap](https://github.com/DahyeonWoo/FindMap) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 동상)** - 검색, 검색결과, 게시글 추천 SNS 서비스
-- Backend & Infra & AI : **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 도서 추천 챗봇
-- AI : **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) 은상)**
+## Infra System - Backend, Infra, AI
+- **[Shorket](https://github.com/Wo-ogie/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
+- **[ARTISTACK](https://github.com/umc-artistack/artistack-server) ([아주 훌륭한 SW 융합인의 도전](https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=204047&article.offset=0&articleLimit=10&srSearchVal=%EC%95%84%EC%A3%BC+%ED%9B%8C%EB%A5%AD) 최우수상)** - 다양한 뮤지션이 만나 새로운 음악을 만들어내는 숏폼 SNS
+- **[FindMap](https://github.com/DahyeonWoo/FindMap) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 동상)** - 검색, 검색결과, 게시글 추천 SNS 서비스
+- **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 도서 추천 챗봇
+- **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) 은상)**
 
 ## Study
-
 - c-study
 - communication system study
 - network study
 - infra study
-
 
 <h2>🛠 Skill</h2>
 
@@ -60,6 +55,7 @@
 
 <h2>👬Activities</h2>
 
+- **[Cloud Club](https://cloudclub.oopy.io/)** (Member) - 클라우드 연합 동아리 *(2023.03 ~)*
 - **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** (Core Member) - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ 2023.06)*
 - **[University MakeUs Challenge](https://www.makeus.in/umc)** Ajou (Lead) - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ 2022.08)*
 
