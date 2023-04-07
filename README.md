@@ -33,12 +33,6 @@
 - **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 도서 추천 챗봇
 - **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) 은상)**
 
-## Study
-- c-study
-- communication system study
-- network study
-- infra study
-
 <h2>🛠 Skill</h2>
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
