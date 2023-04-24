@@ -18,8 +18,8 @@
 - **Euphony ([2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/c23e1001-daf8-46ad-97e6-71045ae4b6b9?page=1) 정보통신산업진흥원장상)** 리드멘티
 
 ## Communication System - IoT, Embedded
-- Signal Processing Software (Qt) : Intern
-- DSP Embedded Programming : Intern
+- Embedded Linux Software (Qt) : (Intern) Signal Processing Software Develop
+- DSP Embedded Programming : (Intern) DSP Porting Test
 - System Programming : **독거노인 모니터링 시스템 설계** - 라즈베리파이 4대와 8개의 센서의 GPIO,PWM,I2C 통신을 이용한 모니터링 시스템 설계
 - Embedded System : **[IoT 시스템 설계](https://github.com/DahyeonWoo/EmbeddedSystemExperiment)** - ESP32 아두이노 보드 프로그래밍, 스마트 강의실 프로젝트
 - Communication Signal System : **[신호 시스템](https://github.com/DahyeonWoo/SignalSystem)** - MATLAB 실습
