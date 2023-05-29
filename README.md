@@ -4,7 +4,7 @@
 
 <h2>💻 I'm Currently learning on</h2>
 
-- **System Engineering**
+- **Linux System Engineering**
 
 
 ## Open Source Contribution
