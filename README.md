@@ -2,6 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdefwdahyun0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)![Github followers](https://img.shields.io/github/followers/DahyeonWoo?label=Follow)
 
+<h2>💻 I'm Currently learning on</h2>
+
+- **System Engineering**
+
+
 ## Open Source Contribution
 <div>
   <p>
@@ -28,7 +33,7 @@
 - **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 도서 추천 챗봇
 - **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) 은상)**
 
-<h2>🛠 Skill</h2>
+<h2> Skill</h2>
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
@@ -42,13 +47,13 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 
-<h2>👬Activities</h2>
+<h2> Activities</h2>
 
 - **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** (Core Member) - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ 2023.06)*
 - **[University MakeUs Challenge](https://www.makeus.in/umc)** Ajou (Lead) - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ 2022.08)*
 
 
-<h2>📫 About me:</h2>
+<h2> About me:</h2>
 
 - Check out my Blog: **[https://huchuu.tistory.com](https://huchuu.tistory.com)**
 - Email : **[Gmail](wdh112139@gmail.com)**
