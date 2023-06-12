@@ -27,10 +27,10 @@
 - Robot : **[경주용 인공지능 로봇 설계](https://github.com/DahyeonWoo/AdventureDesign)** - RobotC 언어를 이용한 라인트레이서 로봇, 장애물 회피 로봇 제작
 
 ## Infra System - Backend, Infra, Cloud, AI
-- **[Shorket](https://github.com/Wo-ogie/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선, [2022-2 Ajou Softcon](https://softcon.ajou.ac.kr/works/works_prev.asp?uid=789&category=R&wTerm=2022-2) 장려상, [2022 하계 모각소 발표회](https://www.ajou.ac.kr/sw/board/mogagso.do?mode=view&articleNo=204804&article.offset=0&articleLimit=10) 최우수상)** - 라즈베리파이 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
+- **[Shorket](https://github.com/DahyeonWoo/Shorket) ([2022 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선, [2022-2 Ajou Softcon](https://softcon.ajou.ac.kr/works/works_prev.asp?uid=789&category=R&wTerm=2022-2) 장려상, [2022 하계 모각소 발표회](https://www.ajou.ac.kr/sw/board/mogagso.do?mode=view&articleNo=204804&article.offset=0&articleLimit=10) 최우수상)** - 라즈베리파이 클러스터링을 이용한 쿠버네티스 기반 전국 플리마켓 운영지원 서비스
 - **[ARTISTACK](https://github.com/umc-artistack/artistack-server) ([아주 훌륭한 SW 융합인의 도전](https://www.ajou.ac.kr/sw/board/notice.do?mode=view&articleNo=204047&article.offset=0&articleLimit=10&srSearchVal=%EC%95%84%EC%A3%BC+%ED%9B%8C%EB%A5%AD) 최우수상)** - 다양한 뮤지션이 만나 새로운 음악을 만들어내는 숏폼 스트리밍 SNS
-- **[FindMap](https://github.com/DahyeonWoo/FindMap) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 동상)** - 검색, 검색결과, 게시글 추천 SNS
-- **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - 도서 추천 챗봇
+- **[FindMap](https://github.com/DahyeonWoo/FindMap) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 동상)** - AI/빅데이터 기반  검색, 검색결과, 게시글 추천 SNS
+- **[RecoBook](https://github.com/DahyeonWoo/recoBook) ([2021 한이음 ICT멘토링 공모전](https://www.hanium.or.kr/portal/subscription/contestInfo.do?trackSeq=8) 입선)** - AI/빅데이터 기반 도서 추천 챗봇
 - **[검색환경 개선을 위한 자연어 처리 기반 맞춤형 추천 검색 시스템](https://koreascience.kr/article/CFKO202133649036972.pdf) ([2021 한국정보처리학회 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) 은상)**
 
 <h2> Skill</h2>
