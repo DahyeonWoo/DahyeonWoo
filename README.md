@@ -56,8 +56,10 @@
 
 <h2> About me:</h2>
 
-- Check out my Blog: **[https://huchuu.tistory.com](https://huchuu.tistory.com)**
-- Email : **[Gmail](wdh112139@gmail.com)**
+- Check out my **[CV](https://wdahyeon.notion.site/Dahyeon-Woo-7392bc626c5e49c1ac3ba4cdde69cd7a?pvs=4)**
+- Check out my **[Blog](https://huchuu.tistory.com)**
+
+
 
 
 
