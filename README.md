@@ -19,7 +19,7 @@
 
 <h2> About me</h2>
 
-- Check out my **[Blog](https://huchuu.tistory.com)**
+- Check out my **[Blog](https://nali.tistory.com/)**
 
 
 
