@@ -14,7 +14,7 @@
 
 - **[Cloud Club](https://cloudclub.oopy.io/)** (Member) - 클라우드 연합 동아리 *(2023.03 ~)*
 - **[Google Developer Student Clubs Ajou](https://github.com/gdsc-ajou)** (Core Member) - 아주대학교 구글 학생 개발자 모임 *(2022.09 ~ 2023.06)*
-- **[University MakeUs Challenge](https://www.makeus.in/umc)** Ajou (Lead) - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ 2022.08)*
+- **[University MakeUs Challenge](https://www.makeus.in/umc)** Ajou (Lead, Operator) - 앱 개발/런칭 대학 연합 동아리 *(2022.03 ~ 2023.08)*
 
 
 <h2> About me</h2>
