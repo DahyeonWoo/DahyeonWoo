@@ -6,9 +6,11 @@
 - Cloud & Infra Engineering
 - Public Cloud / Private Cloud
 
+
 ## Work
 - System Engineering (23.01.02 ~ 23.06.30)
 - Web Development (21.11.08 ~ 22.03.14)
+
 
 ## Prize
 - **[Euphony](https://github.com/euphony-io/euphony) ([2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/c23e1001-daf8-46ad-97e6-71045ae4b6b9?page=1) 정보통신산업진흥원장상)** 리드멘티 - 오픈소스 기여
@@ -24,6 +26,7 @@
 - 네트워크 중급 과정 (주관: CJ올리브네트웍스, 서울ICT이노베이션스퀘어)
 - 대기업 IT현직자와 함께 클라우드 AWS 구축부터 운영까지 실무 AtoZ (주관: 코멘토)
 - Start-Up K-Shield Jr (주관: 한국인터넷진흥원)
+
 
 ## Certification
 - Naver Cloud Platform Certified Associate
