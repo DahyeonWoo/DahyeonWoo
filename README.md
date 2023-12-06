@@ -22,10 +22,10 @@
 
 
 ## Education
-- AWS Cloud School 1기 (주관: AWS, RAPA)
-- 네트워크 중급 과정 (주관: CJ올리브네트웍스, 서울ICT이노베이션스퀘어)
-- 대기업 IT현직자와 함께 클라우드 AWS 구축부터 운영까지 실무 AtoZ (주관: 코멘토)
-- Start-Up K-Shield Jr (주관: 한국인터넷진흥원)
+- **[AWS Cloud School 1기](http://awscloudschool.rapa.or.kr/ft/main.do)** (주관: AWS, RAPA)
+- **[네트워크 중급 과정](https://all-mice.co.kr/mice/view.php?cl_srl=7236)** (주관: CJ올리브네트웍스, 서울ICT이노베이션스퀘어)
+- **[대기업 IT현직자와 함께 클라우드 AWS 구축부터 운영까지 실무 AtoZ](https://comento.kr/edu/learn/ITSW/IT-G489)** (주관: 코멘토)
+- **[Start-Up K-Shield Junior](https://www.kshieldjr.org/)** (주관: 한국인터넷진흥원)
 
 
 ## Certification
