@@ -5,6 +5,7 @@
 ## 💻 I'm Currently learning on
 - Cloud & Infra Engineering / Cloud Solution Architecting
 - Public Cloud / Private Cloud
+- Micro Service Architecture / Application Moderization
 
 
 ## Work
