@@ -31,7 +31,7 @@
 
 ## Certification
 - Naver Cloud Platform Certified Associate
-- 네트워크관리사 2급
+- 네트워크관리사 2급, 리눅스마스터 2급
 - 정보처리기사
 
 
